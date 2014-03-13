@@ -1,3 +1,6 @@
+# Mac
+.DS_Store
+
 # Xcode
 build/
 *.pbxuser
@@ -18,3 +21,7 @@ DerivedData
 
 # CocoaPods
 Pods
+Podfile.lock
+
+# Appcode
+.idea/
